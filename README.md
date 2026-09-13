@@ -36,6 +36,6 @@ COACHTECH 教材 Tutorial 9-4「Eloquent ORM ハンズオン演習」で作成�
 - 削除された投稿を表示する方法を追加
 
 ## 動作確認のスクリーンショット
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](docs/image.png)
+![alt text](docs/image-1.png)
+![alt text](docs/image-2.png)
